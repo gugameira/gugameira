@@ -37,16 +37,6 @@ Sou curioso, dedicado e estou sempre buscando aplicar meus conhecimentos em proj
 - ⚛️ **Portfólio pessoal** com React e TypeScript  
 
 ---
-
-### 📫 **Contato**
-
-- 📧 gugameira158@gmail.com  
--   <a href="https://www.linkedin.com/in/gustavo-lima-89116625b" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="22px" style="vertical-align:middle;"/> linkedin.com/in/gustavo-lima-89116625b
-  </a>
-
----
-
 ### 📊 **Estatísticas do GitHub**
 
 ![gugameira's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugameira&show_icons=true&theme=dracula)
