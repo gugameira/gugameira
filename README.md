@@ -1,6 +1,6 @@
 ## 👋 **Olá! Me chamo Gustavo Lima**
 
-Tenho 24 anos, moro em **São Paulo - SP** e estou em transição de carreira para a área de **programação**.  
+Tenho 24 anos, moro em **São Paulo - SP** e estou em transição de carreira para a área de  **programação**.  
 Atualmente estudo no **DevClub**, com o instrutor **Rodolfo Mori**, onde venho aprendendo desenvolvimento **Full Stack** com foco em:
 
 - Lógica de programação  
